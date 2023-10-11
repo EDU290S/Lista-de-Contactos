@@ -1,2 +1,4 @@
 # Lista-de-Contactos
-Lista de Contactos-Java
+Lista de Contactos
+Lenguaje: Java
+IDE: Eclipse
